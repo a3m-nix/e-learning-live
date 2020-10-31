@@ -1,0 +1,5 @@
+@startuml
+actor Admin as admin
+usecase a
+admin -> a
+@enduml
